@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-#### Major Projects
+#### Website
 
-* **Python:** [tanmatsu](https://github.com/snowdrop4/tanmatsu) (TUI Library), [acornserver](https://github.com/snowdrop4/acornserver) (BitTorrent Tracker)
+* https://snowdrop4.github.io/
 
-#### Minor Projects
+#### Projects
 
-* **C:** [Snake](https://github.com/snowdrop4/Snake) (game)
-* **C++:** [Roguelike](https://github.com/snowdrop4/Roguelike) (game), [bf-interp](https://github.com/snowdrop4/bf-interp) (Brainfuck Interpreter)
-* **Haskell:** [hbot](https://github.com/snowdrop4/hbot) (IRC Bot)
+* [tanmatsu](https://github.com/snowdrop4/tanmatsu) (TUI Library)
+* [acornserver](https://github.com/snowdrop4/acornserver) (BitTorrent Tracker)
